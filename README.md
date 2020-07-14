@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/AndersonChoi/AndersonChoi/blob/master/profile-flower.gif" />
-</p>
-
 ```
 빅데이터 스트리밍 처리에 대한 높은 이해와 경험을 바탕으로 효과적인 데이터 수집 및 파이프라인을 고도화, 운영하고 있습니다.
 빅데이터에 대한 이해 뿐만 아니라 DevOps를 통한 높은 운영수준, CI/CD를 통한 지속적인 application의 고도화에도 관심이 많습니다.
