@@ -1,3 +1,5 @@
+![profile](https://github.com/AndersonChoi/AndersonChoi/blob/master/profile.gif?raw=true)
+
 ### Hi there 👋
 
 <!--
